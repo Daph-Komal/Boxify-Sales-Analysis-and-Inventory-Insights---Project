@@ -1,5 +1,5 @@
 # Boxify-Sales-Analysis-and-Inventory-Insights---Project
-### Overview
+## Overview
 This project focuses on analyzing sales data to extract inventory-driven insights and provide actionable recommendations for improving inventory management practices. By leveraging data analysis techniques, we aim to optimize stock levels, minimize carrying costs, and enhance customer satisfaction.
 
 ## Key Features
